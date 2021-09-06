@@ -10,12 +10,12 @@ Data was everywhere! Manually entering everything at every stage was painfull. V
 Then one boring day a co-worker encouraged me to play with python and postgresql. These tools brought hope in the mess! Then there was REST APIs, FFMPEG, MediaInfo and many other tools. I was able to start connecting the desperate systems.<br><br>
 
 # cloudy destinations
-The past few years I have been able to include low-code/no code development tools, cloud functions, and cloud CDN/storage. The best part is seeing video arrive at their destinations - web, mobile, streaming devices - all with minimal effort.<br><br>
+The past few years I have been able to include low-code/no code development tools, cloud functions, and cloud CDN/storage into the processes. The best part is seeing video arrive at their destinations - web, mobile, streaming devices - all with minimal effort.<br><br>
 
 # samples
 Here are a couple of fun tools I've made:
 - [Trick Play Service](https://github.com/robertharmless/trickplay-service) - a micro service that generates the trick play assets for an HLS video.
-- [Video Capture Tasks](https://github.com/robertharmless/video-capture-tasks) - a tool to process tasks from the [Just:In](https://www.toolsonair.com/products/ingest/justin/) capture software.
+- [Video Capture Tasks](https://github.com/robertharmless/video-capture-tasks) - a script to process tasks from the [Just:In](https://www.toolsonair.com/products/ingest/justin/) capture software.
 - [Video Capture Scheduling](https://github.com/robertharmless/video-capture-scheduling) - a command line tool to schedule [Just:In](https://www.toolsonair.com/products/ingest/justin/) to record events.
 
 <br>
