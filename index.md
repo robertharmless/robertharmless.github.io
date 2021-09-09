@@ -7,7 +7,7 @@ Data was everywhere! Manually entering everything at every stage was painfull. V
 Then one boring day a co-worker encouraged me to play with python and postgresql. These tools brought hope in the mess! Then there was REST APIs, FFMPEG, MediaInfo and many other tools. I was able to start connecting the disparate systems.<br><br>
 
 # cloudy destinations
-The past few years I have been able to include low-code/no code development tools, cloud functions, and cloud CDN/storage into the processes. The best part is seeing video arrive at their destinations - web, mobile, streaming devices - all with minimal human intervention.<br><br>
+The past few years I have been able to include low-code/no code development tools, cloud functions, and cloud CDN/storage into the processes. The best part is seeing videos arrive at their destinations - web, mobile, streaming devices - all with minimal human intervention.<br><br>
 
 # samples
 Here are a couple of fun tools I've made:
