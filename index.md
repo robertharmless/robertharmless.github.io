@@ -7,10 +7,10 @@ I have been in video production for over 15 years and have worked in almost ever
 Data was everywhere! Manually entering everything at every stage was painfull. Video assets were everywhere! They took forever to move from system to system - if they were formatted correctly. I tried to develop some tools, but there was only so much Filemaker Pro, Applescript and Bash scripts could do.<br><br>
 
 # finding hope
-Then one boring day a co-worker encouraged me to play with python and postgresql. These tools brought hope in the mess! Then there was REST APIs, FFMPEG, MediaInfo and many other tools. I was able to start connecting the desperate systems.<br><br>
+Then one boring day a co-worker encouraged me to play with python and postgresql. These tools brought hope in the mess! Then there was REST APIs, FFMPEG, MediaInfo and many other tools. I was able to start connecting the disparate systems.<br><br>
 
 # cloudy destinations
-The past few years I have been able to include low-code/no code development tools, cloud functions, and cloud CDN/storage into the processes. The best part is seeing video arrive at their destinations - web, mobile, streaming devices - all with minimal effort.<br><br>
+The past few years I have been able to include low-code/no code development tools, cloud functions, and cloud CDN/storage into the processes. The best part is seeing video arrive at their destinations - web, mobile, streaming devices - all with minimal human intervention.<br><br>
 
 # samples
 Here are a couple of fun tools I've made:
