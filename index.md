@@ -1,6 +1,3 @@
-## Video & Software
-<br>
-
 # in the beginning
 I have been in video production for over 15 years and have worked in almost every role on set, during the event, in the edit bay and the asset management office. As the complexity of processes, systems and workflows grew I became more and more software focused.
 
