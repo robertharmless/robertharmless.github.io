@@ -1,5 +1,5 @@
 # in the beginning
-I have been in video production for over 15 years and have worked in almost every role on set, during the event, in the edit bay and the asset management office. As the complexity of processes, systems and workflows grew I became more and more software focused.
+I’ve spent over 20 years working in video and media systems, with roles ranging from on set and live events to the edit bay, asset management, and workflow automation. As the complexity of processes, systems and workflows grew I became more and more software focused.
 
 Data was everywhere! Manually entering everything at every stage was painfull. Video assets were everywhere! They took forever to move from system to system - if they were formatted correctly. I tried to develop some tools, but there was only so much Filemaker Pro, Applescript and Bash scripts could do.<br><br>
 
