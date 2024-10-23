@@ -1,7 +1,7 @@
 # in the beginning
 I’ve spent over 20 years working in video and media systems, with roles ranging from on set and live events to the edit bay, asset management, and workflow automation. As the complexity of processes, systems and workflows grew I became more and more software focused.
 
-Data was everywhere! Manually entering everything at every stage was painfull. Video assets were everywhere! They took forever to move from system to system - if they were formatted correctly. I tried to develop some tools, but there was only so much Filemaker Pro, Applescript and Bash scripts could do.<br><br>
+Data was everywhere! Manually entering everything at every stage was painful. Video assets were everywhere! They took forever to move from system to system - if they were formatted correctly. I tried to develop some tools, but there was only so much Filemaker Pro, Applescript and Bash scripts could do.<br><br>
 
 # finding hope
 Then one boring day a co-worker encouraged me to play with python and postgresql. These tools brought hope in the mess! Then there was REST APIs, FFMPEG, MediaInfo and many other tools. I was able to start connecting the disparate systems.<br><br>
