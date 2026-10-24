@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BSB Audio: Hebrews–3 John</title>
+    <link>https://robertharmless.github.io/bsb-audio-feed/</link>
+    <atom:link href="https://robertharmless.github.io/bsb-audio-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Personal, private podcast feed of the Berean Standard Bible audio (Hebrews through 3 John) read by Bob Souer. Audio is streamed directly from openbible.com (https://openbible.com/audio/souer/). Not for public distribution.</description>
+    <language>en</language>
+    <image>
+      <url>https://robertharmless.github.io/bsb-audio-feed/artwork.png</url>
+      <title>BSB Audio: Hebrews–3 John</title>
+      <link>https://robertharmless.github.io/bsb-audio-feed/</link>
+    </image>
+    <itunes:author>Bob Souer (Berean Standard Bible)</itunes:author>
+    <itunes:summary>Personal feed of BSB audio, Hebrews–3 John, read by Bob Souer. Source: openbible.com.</itunes:summary>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://robertharmless.github.io/bsb-audio-feed/artwork.png"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <item>
+      <title>Hebrews 1</title>
+      <description>Hebrews chapter 1, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 1</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_001.mp3" type="audio/mpeg" length="1890471"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_001.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 2</title>
+      <description>Hebrews chapter 2, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 2</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_002.mp3" type="audio/mpeg" length="2418354"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_002.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 3</title>
+      <description>Hebrews chapter 3, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 3</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_003.mp3" type="audio/mpeg" length="2038847"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_003.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 4</title>
+      <description>Hebrews chapter 4, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 4</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_004.mp3" type="audio/mpeg" length="2319297"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_004.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 5</title>
+      <description>Hebrews chapter 5, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 5</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_005.mp3" type="audio/mpeg" length="1644711"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_005.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 6</title>
+      <description>Hebrews chapter 6, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 6</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_006.mp3" type="audio/mpeg" length="2382827"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_006.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 7</title>
+      <description>Hebrews chapter 7, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 7</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_007.mp3" type="audio/mpeg" length="3218745"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_007.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 8</title>
+      <description>Hebrews chapter 8, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 8</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_008.mp3" type="audio/mpeg" length="1868737"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_008.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 9</title>
+      <description>Hebrews chapter 9, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 9</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_009.mp3" type="audio/mpeg" length="3833981"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_009.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 10</title>
+      <description>Hebrews chapter 10, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 10</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_010.mp3" type="audio/mpeg" length="4157900"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_010.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 11</title>
+      <description>Hebrews chapter 11, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 11</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_011.mp3" type="audio/mpeg" length="4898941"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_011.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 12</title>
+      <description>Hebrews chapter 12, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 12</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_012.mp3" type="audio/mpeg" length="3586967"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_012.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebrews 13</title>
+      <description>Hebrews chapter 13, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>Hebrews 13</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_58_Heb_013.mp3" type="audio/mpeg" length="2737256"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_58_Heb_013.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>James 1</title>
+      <description>James chapter 1, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>James 1</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_59_Jas_001.mp3" type="audio/mpeg" length="3133480"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_59_Jas_001.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>James 2</title>
+      <description>James chapter 2, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>James 2</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_59_Jas_002.mp3" type="audio/mpeg" length="2934531"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_59_Jas_002.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>James 3</title>
+      <description>James chapter 3, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>James 3</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_59_Jas_003.mp3" type="audio/mpeg" length="2206864"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_59_Jas_003.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>James 4</title>
+      <description>James chapter 4, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>James 4</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_59_Jas_004.mp3" type="audio/mpeg" length="2129124"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_59_Jas_004.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>James 5</title>
+      <description>James chapter 5, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>James 5</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_59_Jas_005.mp3" type="audio/mpeg" length="2438832"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_59_Jas_005.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Peter 1</title>
+      <description>1 Peter chapter 1, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 Peter 1</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_60_1Pe_001.mp3" type="audio/mpeg" length="3263047"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_60_1Pe_001.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Peter 2</title>
+      <description>1 Peter chapter 2, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 Peter 2</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_60_1Pe_002.mp3" type="audio/mpeg" length="3181127"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_60_1Pe_002.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Peter 3</title>
+      <description>1 Peter chapter 3, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 Peter 3</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_60_1Pe_003.mp3" type="audio/mpeg" length="2775707"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_60_1Pe_003.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Peter 4</title>
+      <description>1 Peter chapter 4, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 Peter 4</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_60_1Pe_004.mp3" type="audio/mpeg" length="2413336"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_60_1Pe_004.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 Peter 5</title>
+      <description>1 Peter chapter 5, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 Peter 5</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_60_1Pe_005.mp3" type="audio/mpeg" length="1682743"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_60_1Pe_005.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 Peter 1</title>
+      <description>2 Peter chapter 1, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>2 Peter 1</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_61_2Pe_001.mp3" type="audio/mpeg" length="2773617"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_61_2Pe_001.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 Peter 2</title>
+      <description>2 Peter chapter 2, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>2 Peter 2</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_61_2Pe_002.mp3" type="audio/mpeg" length="3348311"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_61_2Pe_002.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 Peter 3</title>
+      <description>2 Peter chapter 3, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>2 Peter 3</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_61_2Pe_003.mp3" type="audio/mpeg" length="2530365"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_61_2Pe_003.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 John 1</title>
+      <description>1 John chapter 1, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 John 1</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_62_1Jn_001.mp3" type="audio/mpeg" length="1305326"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_62_1Jn_001.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 John 2</title>
+      <description>1 John chapter 2, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 John 2</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_62_1Jn_002.mp3" type="audio/mpeg" length="3796363"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_62_1Jn_002.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 John 3</title>
+      <description>1 John chapter 3, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 John 3</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_62_1Jn_003.mp3" type="audio/mpeg" length="3039857"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_62_1Jn_003.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 John 4</title>
+      <description>1 John chapter 4, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 John 4</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_62_1Jn_004.mp3" type="audio/mpeg" length="2658260"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_62_1Jn_004.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 John 5</title>
+      <description>1 John chapter 5, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>1 John 5</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_62_1Jn_005.mp3" type="audio/mpeg" length="2601836"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_62_1Jn_005.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 John 1</title>
+      <description>2 John chapter 1, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>2 John 1</itunes:title>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_63_2Jn_001.mp3" type="audio/mpeg" length="1545653"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_63_2Jn_001.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 John 1</title>
+      <description>3 John chapter 1, Berean Standard Bible, read by Bob Souer.</description>
+      <itunes:title>3 John 1</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://openbible.com/audio/souer/BSB_64_3Jn_001.mp3" type="audio/mpeg" length="1704895"/>
+      <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_64_3Jn_001.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 12:32:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
