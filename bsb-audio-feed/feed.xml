@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>BSB Audio: Hebrews–3 John</title>
     <link>https://robertharmless.github.io/bsb-audio-feed/</link>
@@ -306,6 +306,8 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://openbible.com/audio/souer/BSB_61_2Pe_001.mp3" type="audio/mpeg" length="2773617"/>
       <guid isPermaLink="false">https://openbible.com/audio/souer/BSB_61_2Pe_001.mp3</guid>
+      <podcast:transcript url="https://robertharmless.github.io/bsb-audio-feed/transcripts/BSB_61_2Pe_001.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://robertharmless.github.io/bsb-audio-feed/transcripts/BSB_61_2Pe_001.srt" type="application/srt" language="en"/>
       <pubDate>Sat, 24 Oct 2026 12:23:00 +0000</pubDate>
     </item>
     <item>
